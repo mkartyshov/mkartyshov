@@ -1,4 +1,4 @@
-### Hey there! 🖖
+### Hey there!
 #### Android Developer from Saint-Petersburg
 ##### [telegram: @mkartyshov](https://t.me/mkartyshov)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat-square)
